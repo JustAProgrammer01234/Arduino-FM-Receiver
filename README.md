@@ -7,3 +7,6 @@ https://github.com/JustAProgrammer01234/Arduino-FM-Receiver/assets/76458223/5464
 
 ## The Schematic Diagram: 
 ![Screenshot 2024-06-09 140447](https://github.com/JustAProgrammer01234/Arduino-FM-Receiver/assets/76458223/3c64ee80-4872-48de-856b-18e6cbe3d3ed)
+
+
+PS: The "conn" component you see there is where the module itself is located. I just couldn't find a way to add it to kicad so I did that instead. 
